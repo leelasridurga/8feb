@@ -1,0 +1,7 @@
+#convert kilometers into centimeters
+km=int(input('enter km'))
+cm=km*100000
+print(cm)
+
+enter km50 
+5000000
